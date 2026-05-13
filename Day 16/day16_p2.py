@@ -22,3 +22,14 @@ for i in range(2, num):
             break
     if prime1 and prime2:
         print(num, "=", i, "+", num - i)
+
+'''OUTPUT:
+Enter a number: 36
+36 = 5 + 31
+36 = 7 + 29
+36 = 13 + 23
+36 = 17 + 19
+36 = 19 + 17
+36 = 23 + 13
+36 = 29 + 7
+36 = 31 + 5S'''
