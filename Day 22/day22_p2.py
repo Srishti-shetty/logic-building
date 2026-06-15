@@ -18,3 +18,11 @@ for i in arr:
     else:
         count = 0
 print("Longest sequence of consecutive 1s:", max_count)
+
+'''OUTPUT:
+Enter number of elements: 4
+Enter element (0 or 1): 1
+Enter element (0 or 1): 0
+Enter element (0 or 1): 0
+Enter element (0 or 1): 0
+Longest sequence of consecutive 1s: 1S'''
